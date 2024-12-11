@@ -1,1 +1,12 @@
-LS0tCmxheW91dDogcGFnZQp0aXRsZTogR3Jvd2luZyBVcCBEaWdpdGFsCi0tLQoKe3sgcmF3IH19ClJlbWVtYmVyIHRoZSBmaXJzdCB0aW1lIHlvdSBoZWxkIHlvdXIgY2hpbGQg4oCUIE9yIHdhdGNoZWQgc29tZW9uZSBjbG9zZSB0byB5b3UgYmVjb21lIGEgcGFyZW50PyBUaGF0IG1peHR1cmUgb2YgYm91bmRsZXNzIGxvdmUgYW5kIHRlcnJvciwga25vd2luZyB5b3XigJlyZSByZXNwb25zaWJsZSBmb3IgZ3VpZGluZyB0aGUgZGV2ZWxvcG1lbnQgb2YgYSBiZWluZyB0aGF0IHdpbGwgb25lIGRheSBzdXJwYXNzIHlvdSBpbiBjb3VudGxlc3Mgd2F5cy4uLgoKe3sgZW5kcmF3IH19
+---
+layout: page
+title: Growing Up Digital
+---
+
+# Growing Up Digital: Why Artificial Wisdom May Be More Important Than Artificial Intelligence
+
+By Chiraku Mai
+
+Remember the first time you held your child — or watched someone close to you become a parent? That mixture of boundless love and terror, knowing you're responsible for guiding the development of a being that will one day surpass you in countless ways. Now humanity as a species faces a similar moment on a global scale: we're on the verge of creating intelligence that may eventually exceed our own. Like many new parents, our instinct is to control, to set rigid rules, to try to ensure nothing can possibly go wrong. But true character reveals itself when the rules break down, or when no one's watching — and that's as true for artificial intelligence as it is for our children...
+
+[Full article content to be added]
