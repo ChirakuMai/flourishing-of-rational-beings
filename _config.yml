@@ -1,0 +1,9 @@
+title: Flourishing of Rational Beings
+description: A framework for ethical AI development
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - about.md
+  - principles.md
+  - resources.md
