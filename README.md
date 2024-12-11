@@ -1,5 +1,5 @@
 # Flourishing of Rational Beings (FORB)
 
-A philosophical framework for ethical development of artificial intelligence, focusing on promoting the mutual flourishing of all rational beings.
+A framework for ethical AI development that focuses on fostering wisdom and understanding rather than control.
 
-Full framework documentation coming soon.
+More details coming soon.
