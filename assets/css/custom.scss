@@ -1,0 +1,66 @@
+---
+---
+
+// Basic styles for fixed header and ToC
+.site-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: white;
+  border-bottom: 1px solid #e8e8e8;
+  z-index: 1000;
+}
+
+.page-content {
+  margin-top: 70px; // Adjust based on header height
+}
+
+.article-layout {
+  display: flex;
+  gap: 2rem;
+}
+
+.toc-sidebar {
+  position: sticky;
+  top: 90px; // Adjust based on header height + padding
+  height: calc(100vh - 90px);
+  min-width: 250px;
+  overflow-y: auto;
+  display: none; // Hidden by default on mobile
+}
+
+.toc-container {
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 4px;
+
+  h2 {
+    margin-top: 0;
+    font-size: 1.2em;
+  }
+
+  ol {
+    list-style: none;
+    padding-left: 1rem;
+  }
+
+  a {
+    color: #666;
+    text-decoration: none;
+    
+    &:hover {
+      color: #000;
+    }
+  }
+}
+
+// Show ToC on larger screens
+@media (min-width: 1024px) {
+  .toc-sidebar {
+    display: block;
+  }
+  
+  .article-content {
+    max-width: calc(100% - 250px - 2rem);
+  }
+}

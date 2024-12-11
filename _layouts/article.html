@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="page-content">
+  <div class="wrapper">
+    <div class="article-layout">
+      <aside class="toc-sidebar">
+        <div class="toc-container">
+          <h2>Contents</h2>
+          {% include toc.html html=content %}
+        </div>
+      </aside>
+      <article class="article-content">
+        {{ content }}
+      </article>
+    </div>
+  </div>
+</div>

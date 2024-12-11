@@ -5,6 +5,10 @@ markdown: kramdown
 baseurl: "/flourishing-of-rational-beings"
 url: "https://chirakumai.github.io"
 
+sass:
+  sass_dir: assets/css
+  style: compressed
+
 header_pages:
   - article.md
   - principles.md
