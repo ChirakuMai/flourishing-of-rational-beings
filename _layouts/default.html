@@ -9,7 +9,7 @@
   <body>
     <header class="site-header">
       <div class="wrapper">
-        <a class="site-title" href="/">{{ site.title }}</a>
+        <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
         <nav class="site-nav">
           {% for page in site.header_pages %}
           <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title }}</a>
@@ -24,7 +24,7 @@
     </main>
     <footer class="site-footer">
       <div class="wrapper">
-        <p>© {{ 'now' | date: "%Y" }} {{ site.title }}</p>
+        <p>Published under Creative Commons BY-SA 4.0 License</p>
       </div>
     </footer>
   </body>

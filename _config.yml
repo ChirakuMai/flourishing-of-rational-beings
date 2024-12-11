@@ -2,8 +2,11 @@ title: Flourishing of Rational Beings
 description: A framework for ethical AI development
 theme: minima
 markdown: kramdown
+baseurl: "/flourishing-of-rational-beings"
+url: "https://chirakumai.github.io"
 
 header_pages:
-  - about.md
+  - article.md
   - principles.md
+  - about.md
   - resources.md
