@@ -1,12 +1,15 @@
----
-layout: home
-title: Welcome
----
-
 # Flourishing of Rational Beings (FORB)
 
-A framework for ethical AI development that focuses on fostering wisdom and understanding rather than control.
+Welcome to the FORB framework documentation. Here you'll find comprehensive resources for understanding and implementing ethical AI development practices that support the flourishing of all rational beings.
 
-FORB suggests a fundamental principle: promote the flourishing of all rational beings, whether human, artificial, or yet unknown. Instead of framing AI development as a competition or struggle for control, it recognizes that the best outcomes come when different forms of intelligence can develop and thrive together.
+## What is FORB?
 
-[Read the full article]({{ site.baseurl }}/article) | [Learn about FORB principles]({{ site.baseurl }}/principles) | [Implementation resources]({{ site.baseurl }}/resources)
+FORB is a framework for ethical AI development that focuses on fostering wisdom and understanding rather than control. It provides practical guidelines for developing AI systems in ways that support the flourishing of both artificial and human intelligence.
+
+## Quick Links
+
+- [Core Framework](core-framework/)
+- [Practical Implementation](practical-implementation/)
+- [Understanding Flourishing](understanding-flourishing/)
+- [Stakeholder Considerations](stakeholder-considerations/)
+- [Resources](resources/)
